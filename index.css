@@ -1,0 +1,27 @@
+
+body{
+    height: 500px;
+    width: 100%;
+    background-color:rgb(22, 148, 206);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.box{
+    width:50%;
+    height:fit-content;
+    background-color:rgb(221, 119, 119);
+    padding:20px;
+    box-shadow:0px 0px 10px rgba(0,0,0,0.1);
+    border-radius:10px;
+    font-family:sans-serif;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+
+}
+.box1{
+    gap: 30px;
+    
+}
